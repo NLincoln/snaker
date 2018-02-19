@@ -1,0 +1,10 @@
+{
+  "name": "snaker",
+  "version": "0.1.0",
+  "description": "Dynamically pull in different tables into your sql queries",
+  "main": "src/index.js",
+  "repository": "https://github.com/NLincoln/snaker",
+  "author": "Nathan Lincoln",
+  "license": "MIT",
+  "private": false
+}
